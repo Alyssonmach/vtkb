@@ -1,7 +1,7 @@
 # Python version: 3.12.8
 
 matplotlib==3.7.5
-pandas==2.0.3
+pandas
 streamlit_folium==0.24.0
 folium==0.19.4
 pyproj==3.7.0
