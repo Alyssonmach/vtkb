@@ -1,0 +1,12 @@
+# Python version: 3.12.8
+
+matplotlib==3.7.5
+pandas==2.0.3
+streamlit_folium==0.24.0
+folium==0.19.4
+pyproj==3.7.0
+geopy==2.4.1
+simplekml==1.3.6
+PyYAML==6.0.2
+openpyxl==3.1.5
+plotly==5.24.1

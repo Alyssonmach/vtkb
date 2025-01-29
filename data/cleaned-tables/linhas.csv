@@ -1,0 +1,75 @@
+NOME_DA_LT_-_SAP,CODIGO_SAP_LT,ID_LT,TENSAO_DE_OPERACAO,STATUS_DA_LT
+LT B. Cocais 3 - Anglogold 230 kV,MT-L-39266,14721,230 kv,1
+LT Nova Era 2 - Silicon 230 kV,MT-L-30466,14722,230 kv,1
+LT B. Cocais 3 - J. Monlevade 230 kV,MT-L-31081,14723,230 kv,1
+LT Baguari - Valadares 2 230 kV,MT-L-39278,14724,230 kv,1
+LT Baguari - Mesquita 230 kV,MT-L-39279,14725,230 kv,1
+LT 230 KV Braúnas - Itabira 2,MT-L-39609,14726,230 kv,1
+LT 230 KV Braúnas - Porto Estrela,MT-L-39610,14727,230 kv,1
+LT Guilman Amorim - Ipatinga 1 230 kV,MT-L-30150,14728,230 kv,1
+LT Guilman Amorim - Nova Era 2 230 kV,MT-L-30149,14729,230 kv,1
+LT G. Valadares 6 - G.Valadares 2 230KV,MT-L-39739,14730,230 kv,1
+Mesquita_PORT_P1_G. Valadares 6,MT-L-39740,14731,230 kv,1
+LT Itabira 2 - Itabira 5 - 230 KV,MT-L-39611,14732,230 kv,1
+LT 230 KV Itabira 2 - J. Monlevade 4,MT-L-39612,14733,230 kv,1
+LT Itabira 2 - Nova Era 2 230 kV,MT-L-30303,14734,230 kv,1
+Itabira 2_PORT_P1_Sabara 3,MT-L-30795,14735,230 kv,1
+LT Itabira 4 - Itabira 5 - 230 KV,MT-L-39613,14736,230 kv,1
+LT Itabira 4 - Taquaril - 230 KV,MT-L-39478,14737,230 kv,1
+LT Ipatinga 1 - Usiminas 230 kV,MT-L-30403,14738,230 kv,1
+LT1 Ipatinga 1 - Mesquita 230 kV,MT-L-30399,14739,230 kv,1
+LT Ipatinga 1 - Porto Estrela 230 kV,MT-L-30170,14740,230 kv,1
+LT Ipatinga 1 - Timóteo 2 - 230KV,MT-L-39458,14741,230 kv,1
+LT 230 kV J.MONLEVADE 2 / J.MONLEVADE 4 C 1 MG,MT-L-39614,14742,230 kv,1
+LT Mesquita - Usiminas 230 kV,MT-L-30396,14743,230 kv,1
+LT Sabará 3 - Taquaril 230 kV,MT-L-30794,14744,230 kv,1
+LT Barão de Cocais 3 - Taquaril 230 kV,MT-L-39540,14745,230 kv,1
+LT 230 KV Aperam - Timóteo 2,MT-L-39457,14746,230 kv,1
+LT Barbacena 2 - Lafaiete 1 345 kV,MT-L-30436,14747,345 kv,1
+LT Barbacena 2 - Pimenta 345 kV,MT-L-30209,14748,345 kv,1
+LT Barbacena 2 - Santos Dumont 2 345 kV,MT-L-39442,14749,345 kv,1
+LT Barreiro - Taquaril 345 kV,MT-L-30203,14750,345 kv,1
+LT Barreiro 1 - Betim 6_Vãos da LT,MT-L-39623,14751,345 kv,1
+LT Jeceaba - Lafaiete 2 345 kV,MT-L-39247,14752,345 kv,1
+LT Jeceaba - Itabirito 2 345 kV,MT-L-39481,14753,345 kv,1
+LT Ouro Preto 2 - Itabirito 2 345 kV,MT-L-39482,14754,345 kv,1
+LT Santos Dumont 2 - Juiz de Fora 1 345 kV,MT-L-39441,14755,345 kv,1
+LT1 Jaguara(345) - Jaguara(500) 345 kV,MT-L-30213,14756,500 kv,1
+LT M. Claros 2 - V. da Palma 1 345 kV,MT-L-30224,14757,345 kv,1
+LT Nova Lima 6 - Ouro Preto 2 345 kV,MT-L-39479,14758,345 kv,1
+LT Pimenta - Taquaril 345 kV,MT-L-30289,14759,345 kv,1
+LT1 345 VARZEA PALMA 4 / PIRAPORA 2,MT-L-31528,14760,345 kv,1
+LT Neves 1-Sete Lagoas 4-345 KV,MT-L-39525,14761,345 kv,1
+LT Neves 1 - Taquaril 345 kV,MT-L-30210,14762,345 kv,1
+LT Betim 6 - Neves 1_Vãos da LT,MT-L-39624,14763,345 kv,1
+LT São Gotardo 2 - T. Marias 345KV,MT-L-30225,14764,345 kv,1
+LT Sete Lagoas 4 -T. Marias,MT-L-39526,14765,345 kv,1
+LT Nova Lima 6 - Taquaril 345 kV,MT-L-39480,14766,345 kv,1
+LT Jaguara - L. Carlos Barreto 345 kV,MT-L-30205,14767,345 kv,1
+LT1 Jaguara - Pimenta 345 kV,MT-L-30286,14768,345 kv,1
+LT Jaguara - Volta Grande 345 KV,MT-L-30206,14769,345 kv,1
+LT 345 KV Três Marias - V. Palma 1,MT-L-30220,14770,345 kv,1
+LT 345 kV VARZEA PALMA 4 / VARZEA PALMA1 C 1 MG,MT-L-31529,14771,345 kv,1
+LT1 Bom Despacho 3 - Jaguara 500 kV,MT-L-30765,14772,500 kv,1
+LT1 Bom Despacho 3 - Neves 1 500 kV,MT-L-30771,14773,500 kv,1
+LT Bom Despacho 3 - São G. Pará 500 kV,MT-L-30774,14774,500 kv,1
+LT Bom Despacho 3 - São Gotardo 2 500 kV,MT-L-30770,14775,500 kv,1
+LT Itabira 5 - Vespasiano 2 500 kV,MT-L-39626,14776,500 kv,1
+LT Itabirito 2 - Ouro Preto 2 - 500 KV,MT-L-39483,14777,500 kv,1
+LT Itabirito 2-São Gonçalo do Pará-500KV,MT-L-39484,14778,500 kv,1
+LT Jaguara - São Simão 500 kV,MT-L-30101,14779,500 kv,1
+LT Jaguara - Nova Ponte 500 kV,MT-L-30121,14780,500 kv,1
+LT Neves 1 - Vespasiano 2 500 kV,MT-L-30120,14781,500 kv,1
+LT São Simão - Água Vermelha 500 kV,MT-L-30105,14782,500 kv,1
+LT Emborcação - Itumbiara 500 kV,MT-L-30424,14783,500 kv,1
+LT Emborcação - São Gotardo 2 500 kV,MT-L-30110,14784,500 kv,1
+LT Emborcação - Nova Ponte 500 kV,MT-L-30116,14785,500 kv,1
+LT2 Aimorés - Mascarenhas 230 kV,MT-L-30020,14786,230 kv,1
+LT2 Ipatinga 1 - Mesquita 230 kV,MT-L-30397,14787,230 kv,1
+LT2 Furnas - Pimenta - 345 kV,MT-L-38720,14788,345 kv,1
+LT2 Jaguara(345) - Jaguara(500) 345 kV,MT-L-30494,14789,500 kv,1
+LT2 Jaguara - Pimenta 345 kV,MT-L-30207,14790,345 kv,1
+LT2 Bom Despacho 3 - Jaguara 500 kV,MT-L-30769,14791,500 kv,1
+LT2 Bom Despacho 3 - Neves 1 500 kV,MT-L-30772,14792,500 kv,1
+LT Itabira 5 - Mesquita 500 kV,MT-L-39625,14793,500 kv,1
+LT3 Jaguara(345) - Jaguara(500) 345 kV,MT-L-30495,14794,500 kv,1

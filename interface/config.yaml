@@ -1,0 +1,9 @@
+# Caminhos para acessar os dataframes salvos no formato .csv
+df_path_lines: '../data/cleaned-tables/linhas.csv'
+df_path_towers: '../data/cleaned-tables/estruturas.csv'
+df_path_conexions: '../data/cleaned-tables/vao_linhas.csv'
+
+# Nomes das colunas de referência para acesso da informação dos conjuntos de linhas
+column_name_lines: 'NOME_DA_LT_-_SAP'
+column_sap_lines: 'CODIGO_SAP_LT'
+column_name_towers: 'COD_LT_SAP'
