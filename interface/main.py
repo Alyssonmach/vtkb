@@ -22,8 +22,8 @@ data_modules = render_data()
 geo_conversor = coords_analysis()
 
 # Caminhos das tabelas e colunas de referência para acesso dos dados do GEO BDIT
-df_paths = paths.return_data_paths(yaml_file = 'config.yaml')
-columns_names = paths.return_columns_ref(yaml_file = 'config.yaml')
+df_paths = paths.return_data_paths(yaml_file = 'interface/config.yaml')
+columns_names = paths.return_columns_ref(yaml_file = 'interface/config.yaml')
 
 def folium_map_data(label):
     '''
